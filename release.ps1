@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.WinGrid -c Release -r win-x64 --no-self-contained
+Compress-Archive -LiteralPath Flow.Launcher.Plugin.WinGrid/bin/Release/win-x64/publish -DestinationPath Flow.Launcher.Plugin.WinGrid/bin/WinGrid.zip -Force

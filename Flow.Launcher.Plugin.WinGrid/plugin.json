@@ -1,0 +1,12 @@
+{
+    "ID": "945C321DB6DB4FAA9C834B0551EE2A38",
+    "ActionKeyword": "grid",
+    "Name": "WinGrid",
+    "Description": "a new plugin for Flow",
+    "Author": "seanmars",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/seanmars/Flow.Launcher.Plugin.WinGrid",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.WinGrid.dll"
+}
